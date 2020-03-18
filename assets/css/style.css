@@ -592,14 +592,14 @@ section {
   border-top: 4px solid #fff;
   padding: 30px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-  margin-top: -60px;
+  margin-top: -20px;
   transition: 0.3s;
 }
 
 .services .card-title {
   font-weight: 700;
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .services .card-title a {
