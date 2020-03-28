@@ -683,12 +683,13 @@ section {
   margin-bottom: 0;
 }
 
-.features .artikel {
-  column-count: 2;
-  column-gap: 5%;
-  text-align: justify;
+@media (min-width: 1000px) {
+  .features .artikel {
+    column-count: 2;
+    column-gap: 5%;
+    text-align: justify;
+  }
 }
-
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
