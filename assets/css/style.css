@@ -813,6 +813,23 @@ section {
   bottom: 0;
 }
 
+@media (min-width: 1000px) {
+  .features .article {
+    column-count: 2;
+    text-align: justify;
+    
+  }
+
+@media (min-width: 1000px){
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
