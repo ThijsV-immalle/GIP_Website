@@ -1017,6 +1017,14 @@ section {
   }
 }
 
+@media (min-width: 1000px) {
+  .interview .artikel {
+    column-count: 2;
+    column-gap: 5%;
+    text-align: justify;
+  }
+}
+
 /*--------------------------------------------------------------
 # Frequently Asked Questions
 --------------------------------------------------------------*/
