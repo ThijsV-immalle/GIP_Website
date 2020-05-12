@@ -1201,3 +1201,20 @@ section {
     text-align: justify;
   }
 }
+
+/*--------------------------------------------------------------
+# Video Engels
+--------------------------------------------------------------*/
+
+@media (min-width:750px){
+  .engels .video{
+    height: 70vh;
+    width: 80%;
+  }
+}
+@media (max-width:750px){
+  .engels .video{
+    height: 25vh;
+    width: 80%;
+  }
+}
